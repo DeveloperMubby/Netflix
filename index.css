@@ -99,7 +99,7 @@ body {
 }
 
 .search {
-  width: 50%;
+  width: 60%;
   background-color: none;
   min-height: 80px;
   display: flex;
@@ -517,6 +517,6 @@ h4 {
 }
 @media(max-width:576px){
   .accord{
-    
+    width: 100%;
   }
 }
